@@ -7,9 +7,10 @@
   "scripts": {
     "dev": "nodemon src/index.js"
   },
-  "author": "",
+  "author": "Kaif Khan",
   "license": "ISC",
   "devDependencies": {
-    "nodemon": "^3.1.9"
+    "nodemon": "^3.1.9",
+    "prettier": "^3.5.2"
   }
 }
